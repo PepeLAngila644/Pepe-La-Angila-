@@ -7813,3 +7813,8 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [04May2025 16:55:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Gave 1 [The Incinerator] to FenixProToG]
 [04May2025 16:55:01.410] [Netty Epoll Server IO #0/DEBUG] [mezz.jei.common.platform.Services/]: Loaded mezz.jei.forge.platform.PlatformHelper@5af015ca for service interface mezz.jei.common.platform.IPlatformHelper
 [04May2025 16:55:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Gave 1 [Wrath of the Desert] to FenixProToG]
+[04May2025 16:59:26.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 16:59:26.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 17:04:26.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 17:04:26.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 17:06:59.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported SaderPlay to FenixProToG]
