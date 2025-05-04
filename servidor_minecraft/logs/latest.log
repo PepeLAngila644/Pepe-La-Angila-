@@ -3544,3 +3544,10 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [04May2025 18:30:39.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay left the game
 [04May2025 18:30:39.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juliosigle lost connection: Disconnected
 [04May2025 18:30:39.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle left the game
+[04May2025 18:41:19.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shadow[/127.85.211.74:59625] logged in with entity id 79050 at (-9.5, 72.0, -6.5)
+[04May2025 18:41:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow joined the game
+[04May2025 18:41:19.515] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (55576363-a43c-36f6-b83b-ceac7eff7544)
+[04May2025 18:41:19.516] [Server thread/INFO] [Jade/]: Syncing config to shadow (55576363-a43c-36f6-b83b-ceac7eff7544)
+[04May2025 18:41:19.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow has made the advancement [Dungeons And Combat]
+[04May2025 18:41:35.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shadow lost connection: Disconnected
+[04May2025 18:41:35.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shadow left the game
