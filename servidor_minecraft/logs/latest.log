@@ -3112,3 +3112,79 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [04May2025 17:38:19.405] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (07b64570-cc4c-322f-838c-9641d731deba)
 [04May2025 17:38:19.406] [Server thread/INFO] [Jade/]: Syncing config to juliosigle (07b64570-cc4c-322f-838c-9641d731deba)
 [04May2025 17:38:34.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle has reached the goal [Here They Come]
+[04May2025 17:40:11.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
+[04May2025 17:40:11.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[04May2025 17:41:15.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle has made the advancement [Getting an Upgrade]
+[04May2025 17:42:10.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04May2025 17:42:28.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[04May2025 17:42:32.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:58577] logged in with entity id 33112 at (-466.2720121218917, 63.0, -1401.7764395130378)
+[04May2025 17:42:32.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[04May2025 17:42:32.506] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[04May2025 17:42:32.507] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[04May2025 17:42:36.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle has made the advancement [Monster Hunter]
+[04May2025 17:42:48.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5744ms or 114 ticks behind
+[04May2025 17:43:11.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7747ms or 154 ticks behind
+[04May2025 17:43:20.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle has made the advancement [Dungeon Now Loading]
+[04May2025 17:43:21.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
+[04May2025 17:43:21.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[04May2025 17:43:30.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4229ms or 84 ticks behind
+[04May2025 17:44:10.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [We Need to Go Deeper]
+[04May2025 17:44:11.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
+[04May2025 17:44:39.056] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=31, y=42, z=35}
+[04May2025 17:45:36.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:53529] logged in with entity id 35387 at (-406.26642691495186, 65.0, -1346.9974854856678)
+[04May2025 17:45:36.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[04May2025 17:45:37.149] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[04May2025 17:45:37.150] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[04May2025 17:45:41.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04May2025 17:45:59.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3550ms or 71 ticks behind
+[04May2025 17:46:13.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle was slain by Snake
+[04May2025 17:46:13.135] [Server thread/INFO] [tombstone/]: The player juliosigle has successfully been saved
+[04May2025 17:46:17.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2830ms or 56 ticks behind
+[04May2025 17:46:28.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juliosigle> la serpiente cabezona
+[04May2025 17:46:45.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-125, y=66, z=48} BlockPos{x=-126, y=67, z=47}
+[04May2025 17:46:45.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=66, z=48} BlockPos{x=-126, y=67, z=47}
+[04May2025 17:46:45.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=65, z=48} BlockPos{x=-126, y=67, z=47}
+[04May2025 17:46:45.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=65, z=48} BlockPos{x=-126, y=67, z=47}
+[04May2025 17:46:45.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-127, y=65, z=49} BlockPos{x=-126, y=67, z=47}
+[04May2025 17:46:45.890] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=65, z=49} BlockPos{x=-126, y=67, z=47}
+[04May2025 17:46:45.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=66, z=49} BlockPos{x=-126, y=67, z=47}
+[04May2025 17:47:21.247] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:21.248] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:21.248] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:21.248] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:27.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7102ms or 142 ticks behind
+[04May2025 17:47:31.425] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:31.426] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:31.426] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:31.426] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:42.924] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1700, y=-19, z=1903}
+[04May2025 17:47:43.527] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:44.616] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:44.616] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:44.617] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:44.617] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:44.969] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[04May2025 17:47:44.969] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[04May2025 17:47:44.970] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[04May2025 17:47:44.970] [Worker-Main-60/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[04May2025 17:47:48.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5685ms or 113 ticks behind
+[04May2025 17:47:48.972] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:48.973] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:48.973] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:47:48.973] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:48:00.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported SaderPlay to FenixProToG]
+[04May2025 17:48:05.122] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1464, y=-30, z=1844}
+[04May2025 17:48:05.122] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1466, y=-30, z=1844}
+[04May2025 17:48:05.122] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1464, y=-30, z=1844}
+[04May2025 17:48:05.122] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1466, y=-30, z=1844}
+[04May2025 17:48:08.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4992ms or 99 ticks behind
+[04May2025 17:48:08.910] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:48:08.910] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:48:08.910] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:48:08.911] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[04May2025 17:48:14.121] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1615, y=-30, z=2073}
+[04May2025 17:48:14.777] [Worker-Main-59/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1444, y=-32, z=1844}
+[04May2025 17:48:14.777] [Worker-Main-59/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1444, y=-32, z=1844}
+[04May2025 17:48:28.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5088ms or 101 ticks behind
+[04May2025 17:48:46.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3397ms or 67 ticks behind
+[04May2025 17:49:04.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
