@@ -156,7 +156,8 @@
       "golden_carrot": "2025-05-02 20:29:39 +0000",
       "cooked_rabbit": "2025-05-04 02:15:29 +0000",
       "enchanted_golden_apple": "2025-05-04 02:45:12 +0000",
-      "cooked_salmon": "2025-05-02 15:31:24 +0000"
+      "cooked_salmon": "2025-05-02 15:31:24 +0000",
+      "carrot": "2025-05-04 19:07:26 +0000"
     },
     "done": false
   },
@@ -841,6 +842,7 @@
       "minecraft:spider": "2025-05-02 00:58:10 +0000",
       "minecraft:creeper": "2025-05-02 00:59:34 +0000",
       "minecraft:phantom": "2025-05-03 15:38:52 +0000",
+      "minecraft:witch": "2025-05-04 19:07:37 +0000",
       "minecraft:wither_skeleton": "2025-05-02 19:15:57 +0000",
       "minecraft:husk": "2025-05-03 17:02:29 +0000",
       "minecraft:cave_spider": "2025-05-02 18:05:07 +0000",
@@ -4671,6 +4673,36 @@
   "tombstone:adventure/mastery_1": {
     "criteria": {
       "coded_trigger": "2025-05-04 18:29:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-04 19:01:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-04 19:01:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-05-04 19:04:26 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-05-04 19:04:26 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-05-04 19:04:26 +0000"
     },
     "done": true
   },
