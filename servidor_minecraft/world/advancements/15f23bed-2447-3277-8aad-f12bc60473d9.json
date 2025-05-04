@@ -4261,12 +4261,6 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_dune_sentinel": {
-    "criteria": {
-      "ambusher": "2025-05-04 02:39:48 +0000"
-    },
-    "done": true
-  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-05-04 00:35:45 +0000"
@@ -4279,27 +4273,9 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_ruined_pyramid": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "ruined_pyramid": "2025-05-04 02:39:28 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mastery_1": {
-    "criteria": {
-      "coded_trigger": "2025-05-04 02:30:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
-    "criteria": {
-      "has_sandstone_slab": "2025-05-04 02:43:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-05-04 02:35:38 +0000"
+      "has_peony": "2025-05-04 01:21:21 +0000"
     },
     "done": true
   },
@@ -4309,15 +4285,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-04 02:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-05-04 02:35:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "legendary_monsters:locate_ruined_pyramid": {
     "criteria": {
-      "has_peony": "2025-05-04 01:21:21 +0000"
+      "ruined_pyramid": "2025-05-04 02:39:28 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_dune_sentinel": {
+    "criteria": {
+      "ambusher": "2025-05-04 02:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-05-04 02:43:26 +0000"
     },
     "done": true
   },
