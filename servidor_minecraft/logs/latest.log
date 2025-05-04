@@ -2945,3 +2945,12 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [04May2025 16:36:22.024] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
 [04May2025 16:37:25.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
 [04May2025 16:37:25.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[04May2025 16:38:07.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SaderPlay lost connection: Disconnected
+[04May2025 16:38:07.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay left the game
+[04May2025 16:44:18.942] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e1b270e[id=<null>,name=FenixProToG,properties={},legacy=false] (/127.222.127.126:46797) lost connection: Disconnected
+[04May2025 16:44:51.649] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SaderPlay[/127.28.38.117:36757] logged in with entity id 8557 at (-459.4590237641215, 75.0, -1373.7449503524406)
+[04May2025 16:44:51.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay joined the game
+[04May2025 16:44:52.090] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1b304e87-2f32-3267-b6ad-5e6ff825a819)
+[04May2025 16:44:52.091] [Server thread/INFO] [Jade/]: Syncing config to SaderPlay (1b304e87-2f32-3267-b6ad-5e6ff825a819)
+[04May2025 16:44:53.471] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37c596be[id=<null>,name=FenixProToG,properties={},legacy=false] (/127.222.127.126:53785) lost connection: Disconnected
+[04May2025 16:45:12.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dbd40c[id=<null>,name=FenixProToG,properties={},legacy=false] (/127.222.127.126:52411) lost connection: Disconnected
