@@ -558,6 +558,7 @@
       "minecraft:husk": "2025-05-03 18:41:48 +0000",
       "minecraft:cave_spider": "2025-05-04 02:48:06 +0000",
       "minecraft:silverfish": "2025-05-04 02:05:56 +0000",
+      "minecraft:enderman": "2025-05-04 17:56:09 +0000",
       "minecraft:endermite": "2025-05-04 02:07:43 +0000",
       "minecraft:zombie": "2025-05-03 18:20:35 +0000"
     },
@@ -2648,6 +2649,18 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-04 17:26:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-05-04 17:48:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-05-04 17:56:48 +0000"
     },
     "done": true
   },

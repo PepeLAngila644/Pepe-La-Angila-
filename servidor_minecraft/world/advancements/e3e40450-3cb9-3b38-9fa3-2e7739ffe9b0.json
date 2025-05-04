@@ -2378,6 +2378,12 @@
     },
     "done": true
   },
+  "palladium:recipes/building_blocks/raw_titanium_block": {
+    "criteria": {
+      "has_raw_titanium": "2025-05-04 17:20:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-04 17:35:19 +0000"
@@ -2399,12 +2405,6 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-04 17:35:19 +0000"
-    },
-    "done": true
-  },
-  "palladium:recipes/building_blocks/raw_titanium_block": {
-    "criteria": {
-      "has_raw_titanium": "2025-05-04 17:20:42 +0000"
     },
     "done": true
   },
