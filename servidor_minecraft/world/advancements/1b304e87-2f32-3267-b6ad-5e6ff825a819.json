@@ -4677,9 +4677,57 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sentry": {
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
+      "has_quartz": "2025-05-04 19:01:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-04 19:01:54 +0000"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-05-04 19:04:26 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-05-04 19:04:26 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-05-04 19:04:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-05-04 19:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-04 19:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-04 19:20:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-04 19:20:23 +0000"
     },
     "done": true
   },
@@ -4689,21 +4737,33 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/blacklist_module": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-04 19:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-04 19:25:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-05-04 19:25:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-05-04 19:27:31 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_key_changer": {
+  "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/alarm": {
-    "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
+      "has_iron": "2025-05-04 19:27:31 +0000"
     },
     "done": true
   },
@@ -4731,33 +4791,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/laser_block": {
-    "criteria": {
-      "has_stone": "2025-05-04 19:20:05 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
-    "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
-    "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
-    "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
     },
     "done": true
   },
@@ -4767,39 +4803,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_granite": {
-    "criteria": {
-      "has_quartz": "2025-05-04 19:01:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-05-04 19:20:09 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_observer": {
-    "criteria": {
-      "has_quartz": "2025-05-04 19:01:54 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_piston": {
-    "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/username_logger": {
-    "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
     },
     "done": true
   },
@@ -4809,39 +4815,9 @@
     },
     "done": true
   },
-  "paraglider:paraglider": {
-    "criteria": {
-      "paraglider": "2025-05-04 19:04:26 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/deku_leaf": {
-    "criteria": {
-      "has_paragliders": "2025-05-04 19:04:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
-    "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2025-05-04 19:28:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2025-05-04 19:25:06 +0000"
     },
     "done": true
   },
@@ -4899,6 +4875,108 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/harming_module": {
+    "criteria": {
+      "has_iron": "2025-05-04 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/smart_module": {
+    "criteria": {
+      "has_iron": "2025-05-04 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-05-04 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/speed_module": {
+    "criteria": {
+      "has_iron": "2025-05-04 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-05-04 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-05-04 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-05-04 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-05-04 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-05-04 19:28:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-05-04 19:28:51 +0000"
@@ -4917,27 +4995,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/harming_module": {
-    "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/smart_module": {
-    "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-05-04 19:28:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/trophy_system": {
-    "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
     },
     "done": true
   },
@@ -4947,45 +5007,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2025-05-04 19:25:06 +0000"
-    },
-    "done": true
-  },
-  "paraglider:recipes/misc/cosmetic/paraglider": {
-    "criteria": {
-      "has_paragliders": "2025-05-04 19:04:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-05-04 19:28:51 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/speed_module": {
-    "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/camera_monitor": {
-    "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2025-05-04 19:20:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2025-05-04 19:25:06 +0000"
     },
     "done": true
   },
@@ -4995,33 +5019,39 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/redstone_module": {
-    "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-05-04 19:20:09 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/door_indestructible_iron_item": {
-    "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-05-04 19:28:51 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_block_remover": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
-      "has_iron": "2025-05-04 19:27:31 +0000"
+      "has_cobblestone": "2025-05-04 19:41:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-04 19:41:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 19:58:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-04 19:41:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-04 19:41:05 +0000"
     },
     "done": true
   },
