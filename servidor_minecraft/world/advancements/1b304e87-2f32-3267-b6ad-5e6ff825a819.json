@@ -4554,15 +4554,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "has_gray_wool": "2025-05-04 17:49:30 +0000"
+      "coded_trigger": "2025-05-04 17:28:04 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/mastery_1": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "coded_trigger": "2025-05-04 18:29:59 +0000"
+      "has_netherrack": "2025-05-04 17:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-04 17:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-04 17:44:10 +0000"
     },
     "done": true
   },
@@ -4572,19 +4584,13 @@
     },
     "done": false
   },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-05-04 17:44:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-05-04 17:49:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-04 17:44:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-04 17:44:23 +0000"
     },
@@ -4632,33 +4638,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2025-05-04 17:49:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-05-04 17:44:10 +0000"
-    },
-    "done": true
-  },
   "palladium:recipes/misc/quartz_circuit": {
     "criteria": {
       "has_quartz": "2025-05-04 17:46:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
-      "has_soul_sand": "2025-05-04 17:44:23 +0000"
+      "has_cyan_terracotta": "2025-05-04 17:49:29 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_knowledge": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "coded_trigger": "2025-05-04 17:28:04 +0000"
+      "has_gray_wool": "2025-05-04 17:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-04 17:49:30 +0000"
     },
     "done": true
   },
@@ -4668,9 +4668,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "tombstone:adventure/mastery_1": {
     "criteria": {
-      "has_netherrack": "2025-05-04 17:41:50 +0000"
+      "coded_trigger": "2025-05-04 18:29:59 +0000"
     },
     "done": true
   },
