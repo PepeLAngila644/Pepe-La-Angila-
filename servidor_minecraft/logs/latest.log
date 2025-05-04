@@ -2939,3 +2939,9 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [04May2025 16:23:26.684] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
 [04May2025 16:24:58.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
 [04May2025 16:24:58.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[04May2025 16:36:21.564] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:51793] logged in with entity id 8336 at (-462.6061949397402, 70.0, -1374.6559014955362)
+[04May2025 16:36:21.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[04May2025 16:36:22.023] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[04May2025 16:36:22.024] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[04May2025 16:37:25.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
+[04May2025 16:37:25.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
