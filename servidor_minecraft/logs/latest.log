@@ -2954,3 +2954,10 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [04May2025 16:44:52.091] [Server thread/INFO] [Jade/]: Syncing config to SaderPlay (1b304e87-2f32-3267-b6ad-5e6ff825a819)
 [04May2025 16:44:53.471] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37c596be[id=<null>,name=FenixProToG,properties={},legacy=false] (/127.222.127.126:53785) lost connection: Disconnected
 [04May2025 16:45:12.257] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dbd40c[id=<null>,name=FenixProToG,properties={},legacy=false] (/127.222.127.126:52411) lost connection: Disconnected
+[04May2025 16:50:02.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:43191] logged in with entity id 9572 at (-463.41787537948585, 70.0, -1374.4403907083877)
+[04May2025 16:50:02.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[04May2025 16:50:03.220] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[04May2025 16:50:03.221] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[04May2025 16:52:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SaderPlay> Wrath Of The Desert
+[04May2025 16:55:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Gave 1 [The Incinerator] to FenixProToG]
+[04May2025 16:55:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Gave 1 [Wrath of the Desert] to FenixProToG]
