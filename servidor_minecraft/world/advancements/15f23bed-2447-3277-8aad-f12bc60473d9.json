@@ -4496,6 +4496,18 @@
     },
     "done": true
   },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-05-04 19:13:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/tomb_raider": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 19:18:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-04 19:03:35 +0000"
@@ -4568,6 +4580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-05-04 19:21:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-05-04 19:03:35 +0000"
@@ -4610,6 +4628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2025-05-04 19:21:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-05-04 19:03:35 +0000"
@@ -4625,6 +4649,12 @@
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-04 19:03:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-05-04 19:13:30 +0000"
     },
     "done": true
   },
