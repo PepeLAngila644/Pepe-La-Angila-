@@ -62,6 +62,7 @@
       "minecraft:frozen_river": "2025-05-03 04:43:03 +0000",
       "minecraft:cherry_grove": "2025-05-02 01:33:26 +0000",
       "minecraft:sunflower_plains": "2025-05-02 01:33:42 +0000",
+      "minecraft:birch_forest": "2025-05-04 20:24:08 +0000",
       "minecraft:windswept_hills": "2025-05-02 00:28:23 +0000",
       "minecraft:badlands": "2025-05-03 19:45:15 +0000",
       "minecraft:beach": "2025-05-02 00:50:42 +0000",
@@ -4871,6 +4872,42 @@
   "tombstone:adventure/talk_grave_guardian": {
     "criteria": {
       "coded_trigger": "2025-05-04 19:58:04 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-04 20:14:43 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-04 20:14:43 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-04 20:14:43 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-05-04 20:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-04 20:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-04 20:59:43 +0000"
     },
     "done": true
   },
