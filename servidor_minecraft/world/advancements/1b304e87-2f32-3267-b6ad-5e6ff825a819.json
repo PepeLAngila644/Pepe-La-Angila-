@@ -5037,12 +5037,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/talk_grave_guardian": {
-    "criteria": {
-      "coded_trigger": "2025-05-04 19:58:17 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2025-05-04 19:41:05 +0000"
@@ -5052,6 +5046,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-05-04 19:41:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 19:58:17 +0000"
     },
     "done": true
   },

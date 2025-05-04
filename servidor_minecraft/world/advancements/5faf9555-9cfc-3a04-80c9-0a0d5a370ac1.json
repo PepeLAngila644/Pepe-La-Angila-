@@ -3163,15 +3163,15 @@
     },
     "done": true
   },
-  "tombstone:adventure/versatility": {
-    "criteria": {
-      "coded_trigger": "2025-05-04 19:56:24 +0000"
-    },
-    "done": true
-  },
   "palladium:recipes/decorations/suit_stand": {
     "criteria": {
       "has_armor_stand": "2025-05-04 19:55:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 19:56:24 +0000"
     },
     "done": true
   },
