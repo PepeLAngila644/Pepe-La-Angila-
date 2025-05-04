@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-04 18:13:28 +0000",
       "minecraft:taiga": "2025-05-03 17:17:58 +0000",
       "minecraft:deep_ocean": "2025-05-04 02:26:07 +0000",
       "minecraft:eroded_badlands": "2025-05-03 18:01:05 +0000",
@@ -70,10 +71,12 @@
       "minecraft:stony_shore": "2025-05-03 17:54:34 +0000",
       "minecraft:snowy_plains": "2025-05-04 18:08:34 +0000",
       "minecraft:dripstone_caves": "2025-05-03 18:35:15 +0000",
+      "minecraft:snowy_taiga": "2025-05-04 18:15:37 +0000",
       "minecraft:swamp": "2025-05-04 01:52:12 +0000",
       "minecraft:cold_ocean": "2025-05-03 20:13:36 +0000",
       "minecraft:forest": "2025-05-03 17:46:53 +0000",
       "minecraft:lush_caves": "2025-05-03 20:48:39 +0000",
+      "minecraft:frozen_ocean": "2025-05-04 18:15:39 +0000",
       "minecraft:desert": "2025-05-03 17:48:04 +0000",
       "minecraft:jungle": "2025-05-03 17:44:51 +0000",
       "minecraft:ocean": "2025-05-03 20:15:06 +0000",
@@ -2662,6 +2665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 18:12:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
     "criteria": {
       "has_jukebox_upgrade": "2025-05-04 17:48:24 +0000"
@@ -2671,6 +2680,12 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-04 18:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-04 18:12:50 +0000"
     },
     "done": true
   },
