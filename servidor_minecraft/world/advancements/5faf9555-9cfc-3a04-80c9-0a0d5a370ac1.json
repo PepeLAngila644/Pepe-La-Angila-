@@ -58,6 +58,8 @@
       "minecraft:taiga": "2025-05-03 17:17:58 +0000",
       "minecraft:deep_ocean": "2025-05-04 02:26:07 +0000",
       "minecraft:eroded_badlands": "2025-05-03 18:01:05 +0000",
+      "minecraft:frozen_river": "2025-05-04 18:08:41 +0000",
+      "minecraft:sunflower_plains": "2025-05-04 17:57:48 +0000",
       "minecraft:birch_forest": "2025-05-04 01:38:21 +0000",
       "minecraft:wooded_badlands": "2025-05-03 18:13:07 +0000",
       "minecraft:badlands": "2025-05-03 17:48:13 +0000",
@@ -66,6 +68,7 @@
       "minecraft:sparse_jungle": "2025-05-03 17:42:44 +0000",
       "minecraft:river": "2025-05-03 17:44:47 +0000",
       "minecraft:stony_shore": "2025-05-03 17:54:34 +0000",
+      "minecraft:snowy_plains": "2025-05-04 18:08:34 +0000",
       "minecraft:dripstone_caves": "2025-05-03 18:35:15 +0000",
       "minecraft:swamp": "2025-05-04 01:52:12 +0000",
       "minecraft:cold_ocean": "2025-05-03 20:13:36 +0000",
@@ -75,6 +78,7 @@
       "minecraft:jungle": "2025-05-03 17:44:51 +0000",
       "minecraft:ocean": "2025-05-03 20:15:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-04 01:20:31 +0000",
+      "minecraft:snowy_beach": "2025-05-04 18:08:45 +0000",
       "minecraft:windswept_savanna": "2025-05-04 01:51:31 +0000",
       "minecraft:warm_ocean": "2025-05-03 17:57:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-04 01:37:03 +0000",
@@ -2652,9 +2656,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-04 17:59:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
     "criteria": {
       "has_jukebox_upgrade": "2025-05-04 17:48:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-05-04 18:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-04 17:58:03 +0000"
     },
     "done": true
   },
