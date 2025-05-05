@@ -2983,3 +2983,85 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 00:24:58.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3811, y=-4, z=-4252}
 [05May2025 00:26:18.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has reached the goal [You Need a Mint]
 [05May2025 00:28:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Sandstone Bomb]
+[05May2025 00:33:15.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Dust, Sand and Bones]
+[05May2025 00:33:38.483] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3811, y=-4, z=-4108}
+[05May2025 00:35:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Fishy Business]
+[05May2025 00:36:03.372] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3636, y=-19, z=-3951}
+[05May2025 00:36:06.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3492, y=-4, z=-3923}
+[05May2025 00:37:23.689] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3772, y=-4, z=-3805}
+[05May2025 00:37:31.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3720, y=65, z=-3782}
+[05May2025 00:37:38.865] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3524, y=-4, z=-3763}
+[05May2025 00:37:39.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3723, y=67, z=-3776}
+[05May2025 00:37:39.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3726, y=65, z=-3768}
+[05May2025 00:39:16.071] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3316, y=-4, z=-3619}
+[05May2025 00:39:17.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3691, y=69, z=-3608}
+[05May2025 00:39:36.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3347, y=-4, z=-3500}
+[05May2025 00:39:42.952] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3452, y=-4, z=-3469}
+[05May2025 00:39:59.155] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3524, y=-4, z=-3331}
+[05May2025 00:40:17.632] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:17.632] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:17.632] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:17.632] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:19.072] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:19.073] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:19.073] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:19.073] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:22.450] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3340, y=-4, z=-3165}
+[05May2025 00:40:45.242] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:45.242] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:45.243] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:40:45.243] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:41:10.018] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:41:10.019] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:41:10.020] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:41:10.020] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:44:21.547] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3364, y=-4, z=-2675}
+[05May2025 00:45:03.284] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3628, y=-4, z=-2733}
+[05May2025 00:45:05.617] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3654, y=-54, z=-3019}
+[05May2025 00:45:05.617] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3654, y=-54, z=-3019}
+[05May2025 00:45:06.751] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:45:06.752] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:45:06.752] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:45:06.752] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:45:34.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has completed the challenge [Village Defender]
+[05May2025 00:48:01.667] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3181, y=-4, z=-2340}
+[05May2025 00:48:14.444] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3127, y=-29, z=-2246}
+[05May2025 00:48:14.444] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3128, y=-28, z=-2246}
+[05May2025 00:48:14.444] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3127, y=-29, z=-2246}
+[05May2025 00:48:14.444] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3128, y=-28, z=-2246}
+[05May2025 00:49:01.171] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3188, y=-29, z=-2168}
+[05May2025 00:49:01.172] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3187, y=-29, z=-2167}
+[05May2025 00:49:01.172] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3186, y=-29, z=-2167}
+[05May2025 00:49:01.172] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3188, y=-29, z=-2168}
+[05May2025 00:49:01.172] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3187, y=-29, z=-2167}
+[05May2025 00:49:01.173] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3186, y=-29, z=-2167}
+[05May2025 00:49:03.748] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3128, y=-28, z=-2246}
+[05May2025 00:49:03.748] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3127, y=-29, z=-2246}
+[05May2025 00:49:04.937] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3188, y=-29, z=-2168}
+[05May2025 00:49:04.938] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3187, y=-29, z=-2167}
+[05May2025 00:49:04.938] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3186, y=-29, z=-2167}
+[05May2025 00:49:08.077] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3104, y=-53, z=-2164}
+[05May2025 00:49:08.078] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3104, y=-53, z=-2164}
+[05May2025 00:49:13.185] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3104, y=-53, z=-2164}
+[05May2025 00:49:31.698] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3063, y=-54, z=-2144}
+[05May2025 00:49:31.698] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3063, y=-54, z=-2144}
+[05May2025 00:49:42.165] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3063, y=-54, z=-2144}
+[05May2025 00:51:04.222] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3004, y=-4, z=-1869}
+[05May2025 00:51:17.730] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3140, y=-4, z=-1747}
+[05May2025 00:51:40.774] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3139, y=-4, z=-1564}
+[05May2025 00:51:48.111] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2812, y=-4, z=-1885}
+[05May2025 00:52:38.980] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3164, y=-4, z=-1453}
+[05May2025 00:58:23.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias fell from a high place
+[05May2025 00:58:23.047] [Server thread/INFO] [tombstone/]: The player M4RTINelias has successfully been saved
+[05May2025 01:00:57.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alvarounu[/127.204.151.170:46113] logged in with entity id 35910 at (-641.1072307092987, 66.0, -967.5124999880791)
+[05May2025 01:00:57.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu joined the game
+[05May2025 01:00:57.751] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5faf9555-9cfc-3a04-80c9-0a0d5a370ac1)
+[05May2025 01:00:57.769] [Server thread/INFO] [Jade/]: Syncing config to alvarounu (5faf9555-9cfc-3a04-80c9-0a0d5a370ac1)
+[05May2025 01:01:53.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alvarounu> t
+[05May2025 01:01:56.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05May2025 01:02:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alvarounu> martin
+[05May2025 01:02:20.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05May2025 01:02:24.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alvarounu> tienes reparacion ?
+[05May2025 01:02:45.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05May2025 01:02:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M4RTINelias> si
+[05May2025 01:03:04.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
