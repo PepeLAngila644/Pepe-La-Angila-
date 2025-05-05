@@ -3577,6 +3577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-05 02:16:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
@@ -3598,6 +3604,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-05 01:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-05 02:16:47 +0000"
     },
     "done": true
   },
@@ -3733,6 +3745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
@@ -3769,9 +3787,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-05 02:16:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2025-05-05 01:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
     },
     "done": true
   },
@@ -3784,6 +3814,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-05 02:14:01 +0000"
     },
     "done": true
   },
@@ -3814,6 +3850,12 @@
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
     },
     "done": true
   },
@@ -3913,6 +3955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-05 02:16:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
@@ -3925,6 +3973,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-05-05 02:22:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-05-05 01:43:59 +0000"
@@ -3934,6 +3988,18 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-05 01:40:14 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-05-05 02:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
     },
     "done": true
   },
@@ -4012,6 +4078,12 @@
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
     },
     "done": true
   },
@@ -4123,6 +4195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
@@ -4138,6 +4216,12 @@
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-05 02:16:47 +0000"
     },
     "done": true
   },
@@ -4159,9 +4243,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-05 02:16:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_skeletosaurus": {
+    "criteria": {
+      "skeletosaurus": "2025-05-05 02:22:18 +0000"
     },
     "done": true
   },
@@ -4195,6 +4291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-05 01:40:14 +0000"
@@ -4219,15 +4321,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-05 02:16:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-05 02:14:01 +0000"
     },
     "done": true
   },
@@ -4240,6 +4360,12 @@
   "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-05 02:17:35 +0000"
     },
     "done": true
   },
@@ -4258,6 +4384,12 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-05-05 02:19:15 +0000"
     },
     "done": true
   },

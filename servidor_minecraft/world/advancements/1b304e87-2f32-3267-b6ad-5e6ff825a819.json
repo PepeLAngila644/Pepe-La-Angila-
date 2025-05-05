@@ -5325,6 +5325,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-05-05 02:16:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-05-05 01:38:10 +0000"
