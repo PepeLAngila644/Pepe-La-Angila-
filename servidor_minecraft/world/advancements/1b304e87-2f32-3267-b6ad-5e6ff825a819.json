@@ -5435,5 +5435,23 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-05-05 20:38:59 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-05-05 20:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-05-05 21:09:44 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
