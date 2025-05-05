@@ -3182,6 +3182,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-05 00:22:05 +0000"
@@ -3224,9 +3236,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-05-05 00:31:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
     },
     "done": true
   },
@@ -3254,6 +3284,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-05-05 00:22:05 +0000"
@@ -3278,6 +3314,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2025-05-05 00:48:15 +0000"
@@ -3287,6 +3329,12 @@
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-05-05 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
     },
     "done": true
   },
@@ -3320,9 +3368,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-05-05 01:02:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
     },
     "done": true
   },
@@ -3362,6 +3428,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-05 00:22:05 +0000"
@@ -3380,9 +3464,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/talk_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 02:41:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-05-05 00:29:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
     },
     "done": true
   },
@@ -3482,6 +3578,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-05 00:29:05 +0000"
@@ -3518,6 +3620,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
       "has_stick": "2025-05-05 00:22:05 +0000"
@@ -3533,6 +3647,18 @@
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-05 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
     },
     "done": true
   },
@@ -3563,6 +3689,12 @@
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-05-05 00:48:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
     },
     "done": true
   },
@@ -3599,6 +3731,18 @@
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-05-05 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-05 02:35:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-05 02:29:04 +0000"
     },
     "done": true
   },

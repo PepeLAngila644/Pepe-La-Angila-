@@ -559,15 +559,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-03 17:45:42 +0000",
+      "minecraft:blaze": "2025-05-05 02:27:51 +0000",
       "minecraft:skeleton": "2025-05-03 17:43:18 +0000",
       "minecraft:ghast": "2025-05-04 20:58:05 +0000",
+      "minecraft:hoglin": "2025-05-05 02:36:32 +0000",
       "minecraft:vindicator": "2025-05-03 17:46:39 +0000",
       "minecraft:magma_cube": "2025-05-04 20:59:26 +0000",
       "minecraft:spider": "2025-05-03 18:28:33 +0000",
       "minecraft:creeper": "2025-05-03 18:27:37 +0000",
       "minecraft:witch": "2025-05-03 18:35:54 +0000",
+      "minecraft:wither_skeleton": "2025-05-05 02:35:58 +0000",
       "minecraft:husk": "2025-05-03 18:41:48 +0000",
       "minecraft:cave_spider": "2025-05-04 02:48:06 +0000",
+      "minecraft:piglin": "2025-05-05 02:37:18 +0000",
       "minecraft:silverfish": "2025-05-04 02:05:56 +0000",
       "minecraft:enderman": "2025-05-04 17:56:09 +0000",
       "minecraft:endermite": "2025-05-04 02:07:43 +0000",
@@ -3343,6 +3347,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-05 02:27:22 +0000",
       "minecraft:soul_sand_valley": "2025-05-04 20:57:37 +0000",
       "minecraft:nether_wastes": "2025-05-05 02:09:43 +0000",
       "minecraft:basalt_deltas": "2025-05-04 20:57:23 +0000"
@@ -3655,6 +3660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-05 02:32:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-05-05 01:40:03 +0000"
@@ -3736,6 +3747,12 @@
   "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
     "criteria": {
       "has_block": "2025-05-05 01:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-05 02:28:36 +0000"
     },
     "done": true
   },
@@ -3898,6 +3915,12 @@
   "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-05 02:32:19 +0000"
     },
     "done": true
   },
@@ -4279,6 +4302,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-05-05 02:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-05 01:40:14 +0000"
@@ -4312,6 +4341,12 @@
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-05 02:28:36 +0000"
     },
     "done": true
   },
@@ -4354,6 +4389,12 @@
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-05-05 01:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-05 02:40:36 +0000"
     },
     "done": true
   },
@@ -4423,9 +4464,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-05 02:24:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-05 02:28:36 +0000"
     },
     "done": true
   },
