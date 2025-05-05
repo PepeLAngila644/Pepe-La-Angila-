@@ -4477,5 +4477,11 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-05-05 19:30:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
