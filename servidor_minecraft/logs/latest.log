@@ -2948,3 +2948,31 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 18:35:20.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay joined the game
 [05May2025 18:35:20.840] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1b304e87-2f32-3267-b6ad-5e6ff825a819)
 [05May2025 18:35:20.869] [Server thread/INFO] [Jade/]: Syncing config to SaderPlay (1b304e87-2f32-3267-b6ad-5e6ff825a819)
+[05May2025 18:39:10.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ESTID[/127.62.255.191:54027] logged in with entity id 2912 at (2020.7404006743736, 69.25220334025373, -883.8228901595722)
+[05May2025 18:39:10.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID joined the game
+[05May2025 18:39:10.447] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1d553635-da83-3f07-bece-5c0795bb3195)
+[05May2025 18:39:10.467] [Server thread/INFO] [Jade/]: Syncing config to ESTID (1d553635-da83-3f07-bece-5c0795bb3195)
+[05May2025 18:40:18.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1788, y=-4, z=-883}
+[05May2025 18:41:55.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Receive Sun's Blessing] to SaderPlay]
+[05May2025 18:42:31.774] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1652, y=-4, z=-653}
+[05May2025 18:42:32.277] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1914, y=-54, z=-593}
+[05May2025 18:42:32.278] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1915, y=-54, z=-594}
+[05May2025 18:42:32.278] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1914, y=-54, z=-593}
+[05May2025 18:42:32.279] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1915, y=-54, z=-594}
+[05May2025 18:42:32.341] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1945, y=-54, z=-593}
+[05May2025 18:42:32.341] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1945, y=-54, z=-593}
+[05May2025 18:42:37.491] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1947, y=-54, z=-592}
+[05May2025 18:42:37.492] [Worker-Main-28/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1947, y=-54, z=-592}
+[05May2025 18:42:39.325] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1914, y=-54, z=-593}
+[05May2025 18:42:39.326] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1915, y=-54, z=-594}
+[05May2025 18:42:39.328] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1945, y=-54, z=-593}
+[05May2025 18:43:00.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Bottle o' Enchanting] to SaderPlay]
+[05May2025 18:43:01.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Bottle o' Enchanting] to SaderPlay]
+[05May2025 18:43:04.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Bottle o' Enchanting] to SaderPlay]
+[05May2025 18:43:04.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Bottle o' Enchanting] to SaderPlay]
+[05May2025 18:43:29.296] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1857, y=-4, z=-564}
+[05May2025 18:43:29.296] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1857, y=-4, z=-564}
+[05May2025 18:43:30.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1796, y=-4, z=-589}
+[05May2025 18:43:30.996] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1947, y=-54, z=-592}
+[05May2025 18:43:34.328] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1857, y=-4, z=-564}
+[05May2025 18:46:10.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-479, y=70, z=-1374} BlockPos{x=-481, y=68, z=-1376}
