@@ -2958,3 +2958,28 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 00:21:11.241] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [05May2025 00:21:11.242] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1452266c[id=<null>,name=M4RTINelias,properties={},legacy=false] (/127.209.200.104:35271) lost connection: Connection closed - mismatched mod channel list
 [05May2025 00:21:11.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05May2025 00:22:05.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4RTINelias[/127.209.200.104:35167] logged in with entity id 3051 at (-4003.300000011921, 62.731138031093245, -4869.699999988079)
+[05May2025 00:22:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias joined the game
+[05May2025 00:22:05.553] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (447a22fc-d663-3ebf-a676-75563e332ee7)
+[05May2025 00:22:05.648] [Server thread/INFO] [Jade/]: Syncing config to M4RTINelias (447a22fc-d663-3ebf-a676-75563e332ee7)
+[05May2025 00:22:08.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3763ms or 75 ticks behind
+[05May2025 00:22:26.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2236ms or 44 ticks behind
+[05May2025 00:22:30.384] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:22:30.385] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:22:30.385] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:22:30.385] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:23:26.080] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:23:26.080] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:23:26.081] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:23:26.081] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[05May2025 00:23:33.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has made the advancement [The Bloody Cult]
+[05May2025 00:23:45.463] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3705, y=100, z=-4899}
+[05May2025 00:23:45.464] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3701, y=105, z=-4892}
+[05May2025 00:23:59.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Pray to the Goddess]
+[05May2025 00:24:19.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Statue's Bargain]
+[05May2025 00:24:30.474] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3755, y=71, z=-4398}
+[05May2025 00:24:32.183] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3748, y=70, z=-4381}
+[05May2025 00:24:32.184] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3760, y=80, z=-4384}
+[05May2025 00:24:58.574] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3811, y=-4, z=-4252}
+[05May2025 00:26:18.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has reached the goal [You Need a Mint]
+[05May2025 00:28:16.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Sandstone Bomb]
