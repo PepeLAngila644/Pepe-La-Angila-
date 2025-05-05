@@ -3037,3 +3037,25 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 21:20:23.879] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
 [05May2025 21:21:18.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was Exterminated by Culonimbus using pure Lightning Energy
 [05May2025 21:21:18.466] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[05May2025 21:46:31.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 64 [Arrow] to SaderPlay]
+[05May2025 21:46:34.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 64 [Arrow] to SaderPlay]
+[05May2025 21:46:36.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 64 [Arrow] to SaderPlay]
+[05May2025 21:50:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 64 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:44.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:44.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:44.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:44.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:45.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:45.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:45.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:45.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:45.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 55 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:48.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Farmer] to SaderPlay]
+[05May2025 21:50:50.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Spirit Orb] to SaderPlay]
+[05May2025 21:50:51.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 63 [Spirit Orb] to SaderPlay]
+[05May2025 21:52:31.584] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=408, y=63, z=477}
+[05May2025 22:02:26.352] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 26,65,1594,minecraft:overworld as filled
+[05May2025 22:04:21.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SaderPlay moved wrongly!
+[05May2025 22:10:58.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Spooky Scary Skeletons]
+[05May2025 22:13:39.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=113, z=877} BlockPos{x=75, y=114, z=878}
