@@ -3344,6 +3344,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2025-05-04 20:57:37 +0000",
+      "minecraft:nether_wastes": "2025-05-05 02:09:43 +0000",
       "minecraft:basalt_deltas": "2025-05-04 20:57:23 +0000"
     },
     "done": false
@@ -3858,6 +3859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-05 02:09:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-05-05 01:36:34 +0000"
@@ -4131,6 +4138,12 @@
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-05 01:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-05 02:09:24 +0000"
     },
     "done": true
   },
