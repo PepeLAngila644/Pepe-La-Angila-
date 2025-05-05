@@ -7633,3 +7633,13 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 21:21:18.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay was Exterminated by Culonimbus using pure Lightning Energy
 [05May2025 21:21:18.461] [Server thread/DEBUG] [tombstone/]: A new grave of the player SaderPlay was created at position [x:150, y:138, z:1257, dim:minecraft:overworld]
 [05May2025 21:21:18.466] [Server thread/INFO] [tombstone/]: The player SaderPlay has successfully been saved
+[05May2025 21:25:30.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 21:25:30.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 21:30:30.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 21:30:30.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 21:35:30.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 21:35:30.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 21:40:30.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 21:40:30.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 21:45:30.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 21:45:30.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
