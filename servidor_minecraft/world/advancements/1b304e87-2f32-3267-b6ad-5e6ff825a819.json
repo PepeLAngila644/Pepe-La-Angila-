@@ -5507,6 +5507,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 22:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-05-05 21:12:40 +0000"
@@ -5528,6 +5534,12 @@
   "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2025-05-05 22:22:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_magic": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 22:29:31 +0000"
     },
     "done": true
   },
@@ -5564,6 +5576,12 @@
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-05-05 22:22:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/disenchanter": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 22:29:31 +0000"
     },
     "done": true
   },

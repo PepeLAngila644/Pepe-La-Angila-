@@ -3060,3 +3060,7 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 22:10:58.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Spooky Scary Skeletons]
 [05May2025 22:13:39.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=75, y=113, z=877} BlockPos{x=75, y=114, z=878}
 [05May2025 22:18:25.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SaderPlay moved too quickly! -10.122489394852252,0.470566526055336,1.5710280976963986
+[05May2025 22:29:27.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Versatility]
+[05May2025 22:29:31.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Disenchanter]
+[05May2025 22:29:31.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Soul Magic]
+[05May2025 22:31:45.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Book of Disenchantment] to SaderPlay]

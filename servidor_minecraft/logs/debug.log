@@ -7682,3 +7682,11 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 22:20:30.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05May2025 22:25:30.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05May2025 22:25:30.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 22:29:27.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has made the advancement [Versatility]
+[05May2025 22:29:31.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Disenchanter]
+[05May2025 22:29:31.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay has reached the goal [Soul Magic]
+[05May2025 22:30:30.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 22:30:30.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05May2025 22:31:45.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Gave 1 [Book of Disenchantment] to SaderPlay]
+[05May2025 22:35:30.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05May2025 22:35:30.586] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
