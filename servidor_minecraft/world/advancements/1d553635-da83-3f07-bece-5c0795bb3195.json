@@ -60,6 +60,7 @@
       "minecraft:deep_ocean": "2025-05-05 03:15:39 +0000",
       "minecraft:eroded_badlands": "2025-05-03 21:05:29 +0000",
       "minecraft:frozen_river": "2025-05-03 16:29:28 +0000",
+      "minecraft:cherry_grove": "2025-05-05 20:27:09 +0000",
       "minecraft:birch_forest": "2025-05-04 00:11:43 +0000",
       "minecraft:windswept_hills": "2025-05-04 22:02:54 +0000",
       "minecraft:bamboo_jungle": "2025-05-03 21:39:37 +0000",
@@ -111,6 +112,7 @@
       "minecraft:wither_skeleton": "2025-05-03 23:03:48 +0000",
       "minecraft:husk": "2025-05-03 22:25:25 +0000",
       "minecraft:cave_spider": "2025-05-03 18:55:49 +0000",
+      "minecraft:endermite": "2025-05-05 20:24:59 +0000",
       "minecraft:zombie": "2025-05-03 05:43:46 +0000",
       "minecraft:drowned": "2025-05-04 21:51:32 +0000",
       "minecraft:zombie_villager": "2025-05-03 21:47:24 +0000"
@@ -4702,6 +4704,24 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-05-05 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-05-05 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-05 20:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-05 20:23:36 +0000"
     },
     "done": true
   },
