@@ -5355,6 +5355,12 @@
     },
     "done": true
   },
+  "alienevo:craft_omnitrix": {
+    "criteria": {
+      "prototype_omnitrix_crafted": "2025-05-05 01:59:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-05 01:32:27 +0000"
@@ -5376,6 +5382,12 @@
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-05-05 01:32:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-05-05 01:56:21 +0000"
     },
     "done": true
   },
