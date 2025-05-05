@@ -3008,3 +3008,10 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 19:51:38.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2612, y=-4, z=1459}
 [05May2025 19:51:50.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> zzzz
 [05May2025 19:51:53.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Set the time to 1000]
+[05May2025 19:55:46.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ESTID lost connection: Disconnected
+[05May2025 19:55:46.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID left the game
+[05May2025 19:56:32.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ESTID[/127.62.255.191:34203] logged in with entity id 19204 at (2420.300000011921, 64.0, 1239.0247214576877)
+[05May2025 19:56:32.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID joined the game
+[05May2025 19:56:32.416] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1d553635-da83-3f07-bece-5c0795bb3195)
+[05May2025 19:56:32.435] [Server thread/INFO] [Jade/]: Syncing config to ESTID (1d553635-da83-3f07-bece-5c0795bb3195)
+[05May2025 20:01:36.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Set the time to 1000]
