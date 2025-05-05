@@ -4,5 +4,11 @@
     "name": "FenixProToG",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1b304e87-2f32-3267-b6ad-5e6ff825a819",
+    "name": "SaderPlay",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

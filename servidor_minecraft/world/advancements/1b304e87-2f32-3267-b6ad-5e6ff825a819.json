@@ -5091,6 +5091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-05-04 20:50:20 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-05-04 21:00:28 +0000"
@@ -5100,12 +5106,6 @@
   "legendary_monsters:defeat_the_ancient_guardian": {
     "criteria": {
       "guardian": "2025-05-04 21:08:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp": {
-    "criteria": {
-      "has_dried_kelp_block": "2025-05-04 20:50:20 +0000"
     },
     "done": true
   },
