@@ -4911,6 +4911,36 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-05-04 21:49:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-04 21:49:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-04 21:49:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-04 21:49:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-04 21:49:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-04 22:09:08 +0000"
@@ -4983,12 +5013,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/laser_block": {
-    "criteria": {
-      "has_stone": "2025-05-04 21:49:57 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-04 22:09:08 +0000"
@@ -4998,12 +5022,6 @@
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-04 22:09:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-05-04 21:49:57 +0000"
     },
     "done": true
   },
@@ -5028,12 +5046,6 @@
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-04 22:09:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
-    "criteria": {
-      "has_cobblestone": "2025-05-04 21:49:57 +0000"
     },
     "done": true
   },
@@ -5145,12 +5157,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_andesite": {
-    "criteria": {
-      "has_cobblestone": "2025-05-04 21:49:57 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-04 22:09:08 +0000"
@@ -5166,12 +5172,6 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-04 22:09:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-05-04 21:49:57 +0000"
     },
     "done": true
   },

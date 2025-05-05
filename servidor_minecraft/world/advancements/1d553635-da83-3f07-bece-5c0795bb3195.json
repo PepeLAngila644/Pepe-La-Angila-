@@ -4251,5 +4251,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 01:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-05 01:09:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

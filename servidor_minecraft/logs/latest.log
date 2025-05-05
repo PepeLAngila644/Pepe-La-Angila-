@@ -3065,3 +3065,41 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [05May2025 01:02:45.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [05May2025 01:02:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M4RTINelias> si
 [05May2025 01:03:04.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05May2025 01:03:22.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
+[05May2025 01:03:23.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alvarounu> pasame cords
+[05May2025 01:03:45.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7908ms or 158 ticks behind
+[05May2025 01:04:02.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Teleported alvarounu to M4RTINelias]
+[05May2025 01:04:02.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[05May2025 01:04:08.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M4RTINelias> este xd
+[05May2025 01:04:22.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ESTID[/127.85.211.74:58407] logged in with entity id 37431 at (-432.3450161571807, 63.0, -1381.5477226286644)
+[05May2025 01:04:22.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID joined the game
+[05May2025 01:04:23.378] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1d553635-da83-3f07-bece-5c0795bb3195)
+[05May2025 01:04:23.404] [Server thread/INFO] [Jade/]: Syncing config to ESTID (1d553635-da83-3f07-bece-5c0795bb3195)
+[05May2025 01:04:24.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alvarounu> me hicieron tp bien makia
+[05May2025 01:04:32.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SaderPlay> xd
+[05May2025 01:04:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <M4RTINelias> jajajaja eso veo
+[05May2025 01:05:10.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu has made the advancement [What a Deal!]
+[05May2025 01:06:11.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> que
+[05May2025 01:06:19.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SaderPlay> naa
+[05May2025 01:06:23.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> ok
+[05May2025 01:07:13.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> voy a rezar una tumba
+[05May2025 01:07:22.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SaderPlay> chill
+[05May2025 01:09:15.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [First Prayer]
+[05May2025 01:09:15.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [Best Friends Forever]
+[05May2025 01:09:29.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> el caballo
+[05May2025 01:10:35.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:43267] logged in with entity id 39638 at (-458.6991445177755, 75.0, -1374.0969413264718)
+[05May2025 01:10:35.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[05May2025 01:10:36.420] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[05May2025 01:10:36.438] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[05May2025 01:10:56.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FenixProToG> saul dis
+[05May2025 01:12:08.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID was slain by FenixProToG
+[05May2025 01:12:08.491] [Server thread/INFO] [tombstone/]: The player ESTID has successfully been saved
+[05May2025 01:12:12.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FenixProToG> XD
+[05May2025 01:12:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> aajajja
+[05May2025 01:12:18.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> weyyyyyyyyyyyyy
+[05May2025 01:12:56.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05May2025 01:13:13.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
+[05May2025 01:13:31.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
+[05May2025 01:13:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[05May2025 01:13:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu has made the advancement [Surge Protector]
+[05May2025 01:13:57.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FenixProToG> martin le hago tp para la compensacion por lo del server???
