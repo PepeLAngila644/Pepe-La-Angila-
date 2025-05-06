@@ -3015,3 +3015,64 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 02:54:21.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
 [06May2025 02:54:38.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
 [06May2025 02:55:00.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06May2025 02:55:20.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5682ms or 113 ticks behind
+[06May2025 02:55:40.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4509ms or 90 ticks behind
+[06May2025 02:56:07.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06May2025 02:56:39.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
+[06May2025 02:57:05.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06May2025 02:57:28.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06May2025 02:57:45.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[06May2025 02:58:28.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06May2025 02:58:59.140] [Server thread/INFO] [tombstone/]: The player ESTID has successfully been saved
+[06May2025 02:59:07.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06May2025 02:59:32.542] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1367, y=-56, z=-1753}
+[06May2025 02:59:32.543] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1367, y=-56, z=-1753}
+[06May2025 02:59:44.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06May2025 02:59:58.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported SaderPlay to FenixProToG]
+[06May2025 03:00:23.358] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1390, y=-4, z=-1768}
+[06May2025 03:00:23.359] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1390, y=-4, z=-1770}
+[06May2025 03:00:23.359] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1390, y=-4, z=-1768}
+[06May2025 03:00:23.360] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1390, y=-4, z=-1770}
+[06May2025 03:00:27.801] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1367, y=-56, z=-1753}
+[06May2025 03:00:35.109] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1260, y=-16, z=-1840}
+[06May2025 03:00:35.110] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1260, y=-16, z=-1840}
+[06May2025 03:00:36.965] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1408, y=-54, z=-1803}
+[06May2025 03:00:36.965] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1408, y=-53, z=-1803}
+[06May2025 03:00:36.966] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1408, y=-54, z=-1803}
+[06May2025 03:00:36.966] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1408, y=-53, z=-1803}
+[06May2025 03:00:38.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[06May2025 03:00:38.178] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1390, y=-4, z=-1768}
+[06May2025 03:00:38.178] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1390, y=-4, z=-1770}
+[06May2025 03:01:10.844] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1260, y=-16, z=-1840}
+[06May2025 03:01:28.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported FenixProToG to SaderPlay]
+[06May2025 03:02:15.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alvarounu lost connection: Disconnected
+[06May2025 03:02:15.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu left the game
+[06May2025 03:02:15.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Kicked alvarounu: Kicked by an operator]
+[06May2025 03:02:15.662] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06May2025 03:02:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Kicked ESTID: Kicked by an operator]
+[06May2025 03:02:21.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ESTID lost connection: Kicked by an operator
+[06May2025 03:02:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID left the game
+[06May2025 03:02:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SaderPlay: Kicked FenixProToG: Kicked by an operator]
+[06May2025 03:02:26.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Kicked by an operator
+[06May2025 03:02:26.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[06May2025 03:02:36.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ESTID[/127.62.255.191:60217] logged in with entity id 21640 at (206.7543198975175, 66.43152384527073, -246.2995634279622)
+[06May2025 03:02:36.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID joined the game
+[06May2025 03:02:37.059] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1d553635-da83-3f07-bece-5c0795bb3195)
+[06May2025 03:02:37.071] [Server thread/INFO] [Jade/]: Syncing config to ESTID (1d553635-da83-3f07-bece-5c0795bb3195)
+[06May2025 03:02:37.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FenixProToG[/127.222.127.126:44669] logged in with entity id 21641 at (-460.2375086203773, 75.0, -1374.37354464238)
+[06May2025 03:02:37.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG joined the game
+[06May2025 03:02:37.809] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (15f23bed-2447-3277-8aad-f12bc60473d9)
+[06May2025 03:02:37.820] [Server thread/INFO] [Jade/]: Syncing config to FenixProToG (15f23bed-2447-3277-8aad-f12bc60473d9)
+[06May2025 03:02:43.906] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alvarounu[/127.204.151.170:55977] logged in with entity id 21855 at (-371.9776014530191, 95.0, -449.96618063686486)
+[06May2025 03:02:43.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu joined the game
+[06May2025 03:02:44.295] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5faf9555-9cfc-3a04-80c9-0a0d5a370ac1)
+[06May2025 03:02:44.304] [Server thread/INFO] [Jade/]: Syncing config to alvarounu (5faf9555-9cfc-3a04-80c9-0a0d5a370ac1)
+[06May2025 03:02:45.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cotpue[/127.85.211.74:59591] logged in with entity id 21860 at (193.52233687934455, 35.0, -239.3754990898365)
+[06May2025 03:02:45.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue joined the game
+[06May2025 03:02:45.761] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (e3e40450-3cb9-3b38-9fa3-2e7739ffe9b0)
+[06May2025 03:02:45.770] [Server thread/INFO] [Jade/]: Syncing config to cotpue (e3e40450-3cb9-3b38-9fa3-2e7739ffe9b0)
+[06May2025 03:04:25.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has reached the goal [Pray to the Goddess]
+[06May2025 03:05:15.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu has made the advancement [A Voltanic Place]
+[06May2025 03:05:17.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SaderPlay lost connection: Disconnected
+[06May2025 03:05:17.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SaderPlay left the game
+[06May2025 03:05:25.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu has completed the challenge [Fiery Beast]

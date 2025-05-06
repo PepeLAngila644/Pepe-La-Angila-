@@ -567,6 +567,7 @@
       "minecraft:vindicator": "2025-05-03 17:46:39 +0000",
       "minecraft:magma_cube": "2025-05-04 20:59:26 +0000",
       "minecraft:spider": "2025-05-03 18:28:33 +0000",
+      "minecraft:piglin_brute": "2025-05-06 02:53:34 +0000",
       "minecraft:creeper": "2025-05-03 18:27:37 +0000",
       "minecraft:zombified_piglin": "2025-05-05 02:47:15 +0000",
       "minecraft:witch": "2025-05-03 18:35:54 +0000",
@@ -3352,9 +3353,10 @@
       "minecraft:crimson_forest": "2025-05-05 02:27:22 +0000",
       "minecraft:soul_sand_valley": "2025-05-04 20:57:37 +0000",
       "minecraft:nether_wastes": "2025-05-05 02:09:43 +0000",
-      "minecraft:basalt_deltas": "2025-05-04 20:57:23 +0000"
+      "minecraft:basalt_deltas": "2025-05-04 20:57:23 +0000",
+      "minecraft:warped_forest": "2025-05-06 02:52:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/return_to_sender": {
     "criteria": {
@@ -4685,6 +4687,72 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-05-06 02:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-06 02:51:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/quartz_flux_capacitor": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/quartz_circuit": {
+    "criteria": {
+      "has_quartz": "2025-05-06 02:52:41 +0000"
     },
     "done": true
   },
