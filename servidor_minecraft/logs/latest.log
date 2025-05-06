@@ -3177,3 +3177,34 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 01:30:52.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue was slain by alvarounu
 [06May2025 01:30:52.624] [Server thread/INFO] [tombstone/]: The player cotpue has successfully been saved
 [06May2025 01:31:21.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue has reached the goal [A Fast Comeback]
+[06May2025 01:34:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu has made the advancement [Strange Encounter]
+[06May2025 01:35:48.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-373, y=70, z=-1694} BlockPos{x=-374, y=68, z=-1698}
+[06May2025 01:40:47.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [We Need to Go Deeper]
+[06May2025 01:41:35.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue has made the advancement [We Need to Go Deeper]
+[06May2025 01:46:25.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cotpue lost connection: Disconnected
+[06May2025 01:46:25.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue left the game
+[06May2025 01:46:33.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cotpue[/127.85.211.74:56269] logged in with entity id 58850 at (-37.727026931558164, 61.0, -153.34325451759912)
+[06May2025 01:46:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue joined the game
+[06May2025 01:46:33.851] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (e3e40450-3cb9-3b38-9fa3-2e7739ffe9b0)
+[06May2025 01:46:33.865] [Server thread/INFO] [Jade/]: Syncing config to cotpue (e3e40450-3cb9-3b38-9fa3-2e7739ffe9b0)
+[06May2025 01:46:52.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4RTINelias lost connection: Timed out
+[06May2025 01:46:52.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias left the game
+[06May2025 01:46:52.057] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06May2025 01:46:52.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ESTID lost connection: Timed out
+[06May2025 01:46:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID left the game
+[06May2025 01:46:53.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alvarounu lost connection: Disconnected
+[06May2025 01:46:53.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu left the game
+[06May2025 01:47:10.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: alvarounu[/127.204.151.170:47577] logged in with entity id 58936 at (-20.198635458633177, 57.0, -150.35854543512244)
+[06May2025 01:47:10.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alvarounu joined the game
+[06May2025 01:47:11.213] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5faf9555-9cfc-3a04-80c9-0a0d5a370ac1)
+[06May2025 01:47:11.226] [Server thread/INFO] [Jade/]: Syncing config to alvarounu (5faf9555-9cfc-3a04-80c9-0a0d5a370ac1)
+[06May2025 01:47:29.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ESTID[/127.62.255.191:54153] logged in with entity id 58988 at (-22.587546824264052, 59.0, -153.4128054414181)
+[06May2025 01:47:29.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID joined the game
+[06May2025 01:47:29.258] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1d553635-da83-3f07-bece-5c0795bb3195)
+[06May2025 01:47:29.271] [Server thread/INFO] [Jade/]: Syncing config to ESTID (1d553635-da83-3f07-bece-5c0795bb3195)
+[06May2025 01:52:14.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4RTINelias[/127.209.200.104:48841] logged in with entity id 59653 at (-319.49453160108953, 67.0, -1701.5387721872946)
+[06May2025 01:52:14.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias joined the game
+[06May2025 01:52:14.404] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (447a22fc-d663-3ebf-a676-75563e332ee7)
+[06May2025 01:52:14.414] [Server thread/INFO] [Jade/]: Syncing config to M4RTINelias (447a22fc-d663-3ebf-a676-75563e332ee7)
+[06May2025 01:53:17.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [Into Fire]
+[06May2025 01:53:23.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue has made the advancement [Into Fire]
