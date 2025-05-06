@@ -107,6 +107,7 @@
       "minecraft:pillager": "2025-05-03 06:25:31 +0000",
       "minecraft:blaze": "2025-05-06 01:53:16 +0000",
       "minecraft:skeleton": "2025-05-03 04:29:25 +0000",
+      "minecraft:ghast": "2025-05-06 04:13:22 +0000",
       "minecraft:vindicator": "2025-05-03 05:19:48 +0000",
       "minecraft:magma_cube": "2025-05-06 01:43:30 +0000",
       "minecraft:spider": "2025-05-03 06:26:44 +0000",
@@ -5257,6 +5258,18 @@
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-05-06 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-05-06 04:17:41 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-05-06 04:17:33 +0000"
     },
     "done": true
   },

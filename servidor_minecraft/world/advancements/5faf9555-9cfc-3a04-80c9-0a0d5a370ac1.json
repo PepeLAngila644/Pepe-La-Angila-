@@ -451,6 +451,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-06 04:07:31 +0000",
       "baked_potato": "2025-05-03 17:54:53 +0000",
       "apple": "2025-05-03 22:16:49 +0000",
       "pumpkin_pie": "2025-05-04 01:00:27 +0000",
@@ -578,7 +579,8 @@
       "minecraft:silverfish": "2025-05-04 02:05:56 +0000",
       "minecraft:enderman": "2025-05-04 17:56:09 +0000",
       "minecraft:endermite": "2025-05-04 02:07:43 +0000",
-      "minecraft:zombie": "2025-05-03 18:20:35 +0000"
+      "minecraft:zombie": "2025-05-03 18:20:35 +0000",
+      "minecraft:zombie_villager": "2025-05-06 04:12:32 +0000"
     },
     "done": false
   },
@@ -4777,6 +4779,12 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-05-06 03:32:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 04:10:20 +0000"
     },
     "done": true
   },
