@@ -3566,6 +3566,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/giant_mushroom": {
+    "criteria": {
+      "giant_mushroom": "2025-05-06 19:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-05-06 19:26:44 +0000"
