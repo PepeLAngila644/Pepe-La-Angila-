@@ -110,6 +110,7 @@
       "minecraft:magma_cube": "2025-05-06 01:43:30 +0000",
       "minecraft:spider": "2025-05-03 06:26:44 +0000",
       "minecraft:creeper": "2025-05-04 02:15:52 +0000",
+      "minecraft:zombified_piglin": "2025-05-06 02:06:33 +0000",
       "minecraft:witch": "2025-05-03 05:30:23 +0000",
       "minecraft:wither_skeleton": "2025-05-03 23:03:48 +0000",
       "minecraft:husk": "2025-05-03 22:25:25 +0000",
@@ -5138,15 +5139,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-06 02:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-06 01:51:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-06 02:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-06 01:51:14 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_skeletosaurus_nest": {
+    "criteria": {
+      "nest": "2025-05-06 02:07:12 +0000"
     },
     "done": true
   },
