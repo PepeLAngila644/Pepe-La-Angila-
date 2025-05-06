@@ -3152,3 +3152,8 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 20:05:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [Let The Magic Happen]
 [06May2025 20:05:57.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [Black or White]
 [06May2025 20:05:59.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue has made the advancement [Enchanter]
+[06May2025 20:14:47.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ESTID moved too quickly! 9.759024153871962,4.73971049352059,-1.1249577696808046
+[06May2025 20:15:23.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: cotpue lost connection: Disconnected
+[06May2025 20:15:23.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue left the game
+[06May2025 20:16:06.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ESTID lost connection: Disconnected
+[06May2025 20:16:06.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID left the game
