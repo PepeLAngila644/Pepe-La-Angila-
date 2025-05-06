@@ -8588,3 +8588,22 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 01:52:14.414] [Server thread/INFO] [Jade/]: Syncing config to M4RTINelias (447a22fc-d663-3ebf-a676-75563e332ee7)
 [06May2025 01:53:17.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [Into Fire]
 [06May2025 01:53:23.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue has made the advancement [Into Fire]
+[06May2025 01:54:23.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID was burnt to a crisp whilst fighting ESTID
+[06May2025 01:54:23.991] [Server thread/DEBUG] [tombstone/]: A new grave of the player ESTID was created at position [x:194, y:81, z:-332, dim:minecraft:the_nether]
+[06May2025 01:54:23.995] [Server thread/INFO] [tombstone/]: The player ESTID has successfully been saved
+[06May2025 01:54:32.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[06May2025 01:54:49.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[06May2025 01:55:06.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[06May2025 01:55:23.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[06May2025 01:55:55.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[06May2025 01:56:12.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[06May2025 01:56:30.951] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3369ms or 67 ticks behind
+[06May2025 01:56:31.933] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=175, y=32, z=-589}
+[06May2025 01:56:31.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 01:56:32.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 01:56:49.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
+[06May2025 01:57:23.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06May2025 02:01:07.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [Who is Cutting Onions?]
+[06May2025 02:01:36.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06May2025 02:01:36.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06May2025 02:01:55.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has made the advancement [We Need to Go Deeper]
