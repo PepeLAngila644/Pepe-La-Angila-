@@ -622,6 +622,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-05-06 04:38:28 +0000",
       "baked_potato": "2025-05-04 20:18:18 +0000",
       "bread": "2025-05-04 18:05:20 +0000",
       "glow_berries": "2025-05-04 18:03:17 +0000",
@@ -1982,6 +1983,18 @@
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-05-04 21:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-06 04:38:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-06 04:38:45 +0000"
     },
     "done": true
   },

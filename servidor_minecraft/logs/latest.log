@@ -3160,3 +3160,31 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 04:40:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported M4RTINelias to FenixProToG]
 [06May2025 04:40:55.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported alvarounu to FenixProToG]
 [06May2025 04:41:57.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has made the advancement [Long Time Ago]
+[06May2025 04:43:04.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported FenixProToG to cotpue]
+[06May2025 04:45:05.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> pene
+[06May2025 04:45:22.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juliosigle lost connection: Disconnected
+[06May2025 04:45:22.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle left the game
+[06May2025 04:45:31.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juliosigle[/127.164.78.126:50765] logged in with entity id 20934 at (-830.7501619017653, 118.0, -1514.1808947428635)
+[06May2025 04:45:31.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle joined the game
+[06May2025 04:45:32.135] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (07b64570-cc4c-322f-838c-9641d731deba)
+[06May2025 04:45:32.144] [Server thread/INFO] [Jade/]: Syncing config to juliosigle (07b64570-cc4c-322f-838c-9641d731deba)
+[06May2025 04:46:04.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported cotpue to FenixProToG]
+[06May2025 04:46:34.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:46:47.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue has made the advancement [A Voltanic Place]
+[06May2025 04:46:48.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [A Voltanic Place]
+[06May2025 04:47:04.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has completed the challenge [Fiery Beast]
+[06May2025 04:47:49.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported cotpue to FenixProToG]
+[06May2025 04:47:57.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:48:41.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported M4RTINelias to FenixProToG]
+[06May2025 04:49:13.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-736, y=33, z=-43} BlockPos{x=-736, y=33, z=-42}
+[06May2025 04:49:14.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle has reached the goal [A Small Cemetery]
+[06May2025 04:49:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported cotpue to FenixProToG]
+[06May2025 04:49:40.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported alvarounu to FenixProToG]
+[06May2025 04:49:42.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported M4RTINelias to FenixProToG]
+[06May2025 04:50:13.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:50:23.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:51:18.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported M4RTINelias to FenixProToG]
+[06May2025 04:52:14.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FenixProToG lost connection: Disconnected
+[06May2025 04:52:14.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG left the game
+[06May2025 04:52:31.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID burned to death
+[06May2025 04:52:31.831] [Server thread/INFO] [tombstone/]: The player ESTID has successfully been saved
