@@ -2653,9 +2653,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-05-06 01:00:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-05-06 00:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-06 01:00:44 +0000"
     },
     "done": true
   },
@@ -2665,9 +2677,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-06 00:55:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-05-06 00:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-06 01:00:44 +0000"
     },
     "done": true
   },
@@ -2677,15 +2701,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 00:52:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-05-06 00:41:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 00:52:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-05-06 00:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-06 00:55:13 +0000"
     },
     "done": true
   },
@@ -2749,6 +2791,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-06 01:00:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-05-06 00:41:38 +0000"
@@ -2758,6 +2806,12 @@
   "tombstone:adventure/use_guard": {
     "criteria": {
       "coded_trigger": "2025-05-06 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-06 01:00:44 +0000"
     },
     "done": true
   },
@@ -2794,6 +2848,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-05-06 00:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 00:52:02 +0000"
     },
     "done": true
   },
