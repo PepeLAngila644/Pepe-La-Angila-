@@ -4768,5 +4768,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-06 03:32:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
