@@ -275,6 +275,7 @@
       "golden_apple": "2025-05-03 22:30:32 +0000",
       "cookie": "2025-05-03 21:48:25 +0000",
       "golden_carrot": "2025-05-04 02:27:17 +0000",
+      "cooked_chicken": "2025-05-06 01:22:11 +0000",
       "enchanted_golden_apple": "2025-05-03 06:26:01 +0000"
     },
     "done": false
@@ -4911,6 +4912,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_catfish": {
+    "criteria": {
+      "has_the_recipe": "2025-05-06 01:20:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-05-06 01:05:11 +0000"
@@ -5034,6 +5041,12 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-06 01:05:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-06 01:20:58 +0000"
     },
     "done": true
   },
