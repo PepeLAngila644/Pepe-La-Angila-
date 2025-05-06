@@ -2950,3 +2950,10 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 16:44:04.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
 [06May2025 16:46:05.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID was slain by Bluff
 [06May2025 16:46:05.062] [Server thread/INFO] [tombstone/]: The player ESTID has successfully been saved
+[06May2025 17:44:38.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: cotpue[/127.85.211.74:52605] logged in with entity id 11454 at (-464.841378509382, 67.5, -1387.220950438072)
+[06May2025 17:44:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue joined the game
+[06May2025 17:44:39.352] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (e3e40450-3cb9-3b38-9fa3-2e7739ffe9b0)
+[06May2025 17:44:39.377] [Server thread/INFO] [Jade/]: Syncing config to cotpue (e3e40450-3cb9-3b38-9fa3-2e7739ffe9b0)
+[06May2025 17:45:55.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> pendejo
+[06May2025 17:46:01.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ESTID> discor
+[06May2025 17:46:10.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <cotpue> ya
