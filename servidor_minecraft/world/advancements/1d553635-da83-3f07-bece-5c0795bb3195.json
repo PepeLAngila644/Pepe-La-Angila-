@@ -87,6 +87,7 @@
       "minecraft:snowy_beach": "2025-05-03 16:35:42 +0000",
       "minecraft:windswept_savanna": "2025-05-05 03:04:28 +0000",
       "minecraft:warm_ocean": "2025-05-03 20:57:54 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-06 03:11:38 +0000",
       "minecraft:flower_forest": "2025-05-03 16:53:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-04 00:12:10 +0000",
       "minecraft:meadow": "2025-05-03 16:52:24 +0000",
@@ -5238,6 +5239,24 @@
   "legendary_monsters:locate_skeletosaurus_nest": {
     "criteria": {
       "nest": "2025-05-06 02:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-05-06 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-05-06 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-06 03:04:09 +0000"
     },
     "done": true
   },

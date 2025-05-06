@@ -4756,5 +4756,17 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-05-06 03:05:15 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-05-06 03:05:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
