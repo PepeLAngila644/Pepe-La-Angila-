@@ -5242,6 +5242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-06 03:04:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-05-06 03:21:55 +0000"
@@ -5251,12 +5257,6 @@
   "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-05-06 03:21:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-05-06 03:04:09 +0000"
     },
     "done": true
   },

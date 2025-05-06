@@ -4774,5 +4774,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-06 03:32:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
