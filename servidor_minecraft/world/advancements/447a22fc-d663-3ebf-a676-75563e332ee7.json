@@ -3812,15 +3812,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "paraglider:pray_to_the_goddess": {
     "criteria": {
-      "has_stone": "2025-05-05 03:32:24 +0000"
+      "bargain": "2025-05-05 03:02:10 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_dark_marble": {
+  "tombstone:adventure/use_knowledge": {
     "criteria": {
-      "has_ingredient": "2025-05-05 03:32:40 +0000"
+      "coded_trigger": "2025-05-05 03:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-05 03:32:24 +0000"
     },
     "done": true
   },
@@ -3833,18 +3839,6 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-05-05 03:32:24 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-05-05 03:02:10 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_pray": {
-    "criteria": {
-      "coded_trigger": "2025-05-05 03:36:29 +0000"
     },
     "done": true
   },
@@ -3878,21 +3872,9 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2025-05-05 03:33:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 03:32:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2025-05-05 03:32:40 +0000"
     },
     "done": true
   },
@@ -3908,12 +3890,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2025-05-05 03:33:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-05 03:32:24 +0000"
@@ -3926,15 +3902,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-05 03:16:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-05 03:32:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-05-05 03:32:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-05-05 03:32:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-05-05 03:33:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-05-05 03:33:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-05-05 03:36:29 +0000"
     },
     "done": true
   },
