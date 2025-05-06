@@ -492,9 +492,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-02 01:04:40 +0000",
+      "minecraft:blaze": "2025-05-06 04:25:38 +0000",
       "minecraft:skeleton": "2025-05-02 00:58:20 +0000",
       "minecraft:ravager": "2025-05-03 04:59:32 +0000",
       "minecraft:vindicator": "2025-05-02 18:46:38 +0000",
+      "minecraft:magma_cube": "2025-05-06 04:24:28 +0000",
       "minecraft:spider": "2025-05-02 00:58:34 +0000",
       "minecraft:creeper": "2025-05-02 17:38:03 +0000",
       "minecraft:evoker": "2025-05-03 23:20:14 +0000",
@@ -5640,6 +5642,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-06 04:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2025-05-06 04:13:07 +0000",
@@ -5653,9 +5661,33 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-06 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2025-05-06 04:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
     },
     "done": true
   },
@@ -5665,9 +5697,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-06 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
     },
     "done": true
   },
@@ -5677,9 +5727,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-06 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2025-05-06 04:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-06 04:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-06 04:25:40 +0000"
     },
     "done": true
   },

@@ -3101,3 +3101,39 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 04:21:36.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [A Terrible Fortress]
 [06May2025 04:21:37.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported cotpue to FenixProToG]
 [06May2025 04:21:38.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue has made the advancement [A Terrible Fortress]
+[06May2025 04:21:53.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [A Terrible Fortress]
+[06May2025 04:22:18.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-531, y=55, z=186} BlockPos{x=-532, y=54, z=186}
+[06May2025 04:24:29.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID was killed by FenixProToG using magic
+[06May2025 04:24:29.193] [Server thread/INFO] [tombstone/]: The player ESTID has successfully been saved
+[06May2025 04:24:37.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/9026, l='ServerLevel[world]', x=-917.50, y=127.00, z=-1624.63] died, message: 'Butcher hit the ground too hard'
+[06May2025 04:24:53.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:25:40.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Into Fire]
+[06May2025 04:26:12.359] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: juliosigle lost connection: Disconnected
+[06May2025 04:26:12.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle left the game
+[06May2025 04:26:21.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: juliosigle[/127.164.78.126:49747] logged in with entity id 11344 at (-830.9106552621348, 118.0, -1520.555300953207)
+[06May2025 04:26:21.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: juliosigle joined the game
+[06May2025 04:26:21.592] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (07b64570-cc4c-322f-838c-9641d731deba)
+[06May2025 04:26:21.603] [Server thread/INFO] [Jade/]: Syncing config to juliosigle (07b64570-cc4c-322f-838c-9641d731deba)
+[06May2025 04:28:18.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:28:21.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported cotpue to FenixProToG]
+[06May2025 04:28:44.228] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-829, y=37, z=97}
+[06May2025 04:28:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue burned to death
+[06May2025 04:28:46.955] [Server thread/INFO] [tombstone/]: The player cotpue has successfully been saved
+[06May2025 04:29:02.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[06May2025 04:29:49.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported alvarounu to FenixProToG]
+[06May2025 04:29:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:30:05.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported alvarounu to FenixProToG]
+[06May2025 04:30:06.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID tried to swim in lava
+[06May2025 04:30:06.249] [Server thread/INFO] [tombstone/]: The player ESTID has successfully been saved
+[06May2025 04:30:12.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:31:20.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Spectator Mode]
+[06May2025 04:31:34.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4RTINelias[/127.209.200.104:52753] logged in with entity id 14269 at (159.69999998807907, 65.0, -313.30000001192093)
+[06May2025 04:31:34.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias joined the game
+[06May2025 04:31:34.818] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (447a22fc-d663-3ebf-a676-75563e332ee7)
+[06May2025 04:31:34.829] [Server thread/INFO] [Jade/]: Syncing config to M4RTINelias (447a22fc-d663-3ebf-a676-75563e332ee7)
+[06May2025 04:31:43.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juliosigle> hoo martin elias
+[06May2025 04:31:46.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Gave 1 [Ender Pearl] to ESTID]
+[06May2025 04:31:49.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[06May2025 04:31:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juliosigle> cuidado te montas a una toyota
+[06May2025 04:32:06.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[06May2025 04:32:07.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
