@@ -505,6 +505,7 @@
       "minecraft:wither_skeleton": "2025-05-02 19:16:55 +0000",
       "minecraft:husk": "2025-05-03 05:11:53 +0000",
       "minecraft:cave_spider": "2025-05-02 01:38:33 +0000",
+      "minecraft:piglin": "2025-05-06 04:34:01 +0000",
       "minecraft:silverfish": "2025-05-02 01:38:56 +0000",
       "minecraft:enderman": "2025-05-03 06:24:23 +0000",
       "minecraft:stray": "2025-05-03 22:15:15 +0000",
@@ -5642,14 +5643,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-06 04:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-06 04:24:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-06 04:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-06 04:30:42 +0000",
       "minecraft:soul_sand_valley": "2025-05-06 04:13:07 +0000",
       "minecraft:basalt_deltas": "2025-05-06 04:12:54 +0000"
     },
@@ -5679,6 +5693,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-06 04:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-05-06 04:21:49 +0000"
@@ -5688,6 +5708,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-06 04:37:01 +0000"
     },
     "done": true
   },
@@ -5721,6 +5747,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-06 04:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-06 04:37:01 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_skeletosaurus": {
     "criteria": {
       "skeletosaurus": "2025-05-06 04:15:10 +0000"
@@ -5739,9 +5777,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-06 04:37:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-06 04:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-06 04:36:18 +0000"
     },
     "done": true
   },

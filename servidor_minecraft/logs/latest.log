@@ -3137,3 +3137,26 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 04:31:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <juliosigle> cuidado te montas a una toyota
 [06May2025 04:32:06.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
 [06May2025 04:32:07.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:32:22.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:32:26.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4373ms or 87 ticks behind
+[06May2025 04:32:26.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported cotpue to FenixProToG]
+[06May2025 04:32:29.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Set own game mode to Survival Mode]
+[06May2025 04:32:42.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported M4RTINelias to FenixProToG]
+[06May2025 04:32:44.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
+[06May2025 04:34:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has reached the goal [Half a flight]
+[06May2025 04:36:18.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FenixProToG has made the advancement [Those Were the Days]
+[06May2025 04:38:19.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06May2025 04:38:21.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has made the advancement [A Voltanic Place]
+[06May2025 04:38:44.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[06May2025 04:38:53.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has completed the challenge [Fiery Beast]
+[06May2025 04:39:07.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06May2025 04:39:41.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06May2025 04:39:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cotpue has made the advancement [Those Were the Days]
+[06May2025 04:39:46.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [Those Were the Days]
+[06May2025 04:39:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID has made the advancement [War Pigs]
+[06May2025 04:40:35.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06May2025 04:40:41.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported ESTID to FenixProToG]
+[06May2025 04:40:47.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported cotpue to FenixProToG]
+[06May2025 04:40:50.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported M4RTINelias to FenixProToG]
+[06May2025 04:40:55.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FenixProToG: Teleported alvarounu to FenixProToG]
+[06May2025 04:41:57.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias has made the advancement [Long Time Ago]
