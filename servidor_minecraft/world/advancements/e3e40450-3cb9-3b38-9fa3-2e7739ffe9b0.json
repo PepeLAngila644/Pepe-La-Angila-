@@ -3465,9 +3465,9 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_lava_eater": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "lava_eater": "2025-05-06 04:46:47 +0000"
+      "fortress": "2025-05-06 04:21:38 +0000"
     },
     "done": true
   },
@@ -3477,9 +3477,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "legendary_monsters:locate_lava_eater": {
     "criteria": {
-      "fortress": "2025-05-06 04:21:38 +0000"
+      "lava_eater": "2025-05-06 04:46:47 +0000"
     },
     "done": true
   },

@@ -3987,7 +3987,8 @@
     "criteria": {
       "minecraft:nether_wastes": "2025-05-06 02:04:41 +0000",
       "minecraft:soul_sand_valley": "2025-05-06 02:02:07 +0000",
-      "minecraft:basalt_deltas": "2025-05-06 02:01:55 +0000"
+      "minecraft:basalt_deltas": "2025-05-06 02:01:55 +0000",
+      "minecraft:warped_forest": "2025-05-06 05:09:06 +0000"
     },
     "done": false
   },
@@ -4087,27 +4088,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-06 04:34:06 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_lava_eater": {
-    "criteria": {
-      "lava_eater": "2025-05-06 04:38:21 +0000"
-    },
-    "done": true
-  },
   "paraglider:paraglider": {
     "criteria": {
       "paraglider": "2025-05-06 04:34:03 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_skeletosaurus_nest": {
-    "criteria": {
-      "nest": "2025-05-06 04:41:57 +0000"
     },
     "done": true
   },
@@ -4117,15 +4100,39 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-05-06 04:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-06 04:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-06 04:37:00 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-05-06 04:38:21 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_lava_eater": {
     "criteria": {
       "ambusher": "2025-05-06 04:38:53 +0000"
     },
     "done": true
   },
-  "paraglider:recipes/misc/cosmetic/paraglider": {
+  "legendary_monsters:locate_skeletosaurus_nest": {
     "criteria": {
-      "has_paragliders": "2025-05-06 04:34:03 +0000"
+      "nest": "2025-05-06 04:41:57 +0000"
     },
     "done": true
   },
@@ -4135,9 +4142,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
-      "has_netherrack": "2025-05-06 04:37:00 +0000"
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/quartz_flux_capacitor": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "palladium:recipes/misc/quartz_circuit": {
+    "criteria": {
+      "has_quartz": "2025-05-06 05:01:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-06 05:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-06 05:07:18 +0000"
     },
     "done": true
   },

@@ -5261,6 +5261,54 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-05-06 04:17:33 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-05-06 04:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-06 04:21:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-06 04:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-06 04:24:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-06 04:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-05-06 04:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-06 04:39:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-06 04:40:39 +0000"
@@ -5273,51 +5321,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-05-06 04:39:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-06 04:40:39 +0000"
     },
     "done": true
   },
-  "legendary_monsters:locate_lava_eater": {
-    "criteria": {
-      "lava_eater": "2025-05-06 04:46:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-06 04:40:39 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_withered_abomination": {
-    "criteria": {
-      "abomination": "2025-05-06 04:17:41 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_lava_eater": {
-    "criteria": {
-      "ambusher": "2025-05-06 04:47:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_bridge": "2025-05-06 04:39:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-05-06 04:24:08 +0000"
     },
     "done": true
   },
@@ -5339,27 +5351,27 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "legendary_monsters:locate_lava_eater": {
     "criteria": {
-      "bastion": "2025-05-06 04:39:46 +0000"
+      "lava_eater": "2025-05-06 04:46:48 +0000"
     },
     "done": true
   },
-  "legendary_monsters:locate_soul_fortress_remains": {
+  "legendary_monsters:defeat_lava_eater": {
     "criteria": {
-      "soul_fortress": "2025-05-06 04:17:33 +0000"
+      "ambusher": "2025-05-06 04:47:04 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "fortress": "2025-05-06 04:21:53 +0000"
+      "has_glowstone_dust": "2025-05-06 05:21:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/quartz_from_blasting": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_nether_quartz_ore": "2025-05-06 04:24:08 +0000"
+      "has_glowstone_dust": "2025-05-06 05:21:50 +0000"
     },
     "done": true
   },
