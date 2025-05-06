@@ -57,6 +57,7 @@
       "minecraft:beach": "2025-05-03 04:22:01 +0000",
       "minecraft:stony_peaks": "2025-05-03 22:58:39 +0000",
       "minecraft:dark_forest": "2025-05-04 00:13:22 +0000",
+      "minecraft:mangrove_swamp": "2025-05-06 19:45:37 +0000",
       "minecraft:sparse_jungle": "2025-05-03 20:19:28 +0000",
       "minecraft:river": "2025-05-03 04:24:20 +0000",
       "minecraft:lukewarm_ocean": "2025-05-03 20:21:37 +0000",
@@ -3550,6 +3551,24 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-05-06 18:18:09 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-05-06 19:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-06 19:33:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-05-06 19:26:44 +0000"
     },
     "done": true
   },
