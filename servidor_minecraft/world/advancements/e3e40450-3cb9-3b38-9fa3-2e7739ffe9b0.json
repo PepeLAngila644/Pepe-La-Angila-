@@ -63,6 +63,7 @@
       "minecraft:snowy_plains": "2025-05-03 04:41:43 +0000",
       "minecraft:stony_shore": "2025-05-03 20:57:52 +0000",
       "minecraft:snowy_taiga": "2025-05-03 04:48:23 +0000",
+      "minecraft:dripstone_caves": "2025-05-06 18:11:03 +0000",
       "minecraft:swamp": "2025-05-03 04:21:31 +0000",
       "minecraft:cold_ocean": "2025-05-03 04:22:11 +0000",
       "minecraft:forest": "2025-05-03 05:42:22 +0000",
@@ -3525,6 +3526,30 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-05-06 05:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-06 17:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-06 17:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-06 18:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-06 17:55:20 +0000"
     },
     "done": true
   },
