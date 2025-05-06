@@ -5645,5 +5645,11 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-05-06 23:43:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
