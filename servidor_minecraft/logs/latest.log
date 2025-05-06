@@ -3028,3 +3028,5 @@ com.google.gson.JsonParseException: Unknown item 'afomni:seed'
 [06May2025 06:11:35.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ESTID lost connection: Disconnected
 [06May2025 06:11:35.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESTID left the game
 [06May2025 06:22:17.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21674, l='ServerLevel[world]', x=-329.50, y=74.00, z=-1749.29] died, message: 'Unemployed was slain by Zombie'
+[06May2025 06:31:02.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4RTINelias lost connection: Disconnected
+[06May2025 06:31:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4RTINelias left the game
