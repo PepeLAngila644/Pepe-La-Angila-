@@ -3554,9 +3554,9 @@
     },
     "done": true
   },
-  "paraglider:root": {
+  "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
-      "crafting_table": "2025-05-06 19:37:26 +0000"
+      "has_lapis_block": "2025-05-06 19:26:44 +0000"
     },
     "done": true
   },
@@ -3566,15 +3566,15 @@
     },
     "done": true
   },
-  "graveyard:graveyard/giant_mushroom": {
+  "paraglider:root": {
     "criteria": {
-      "giant_mushroom": "2025-05-06 19:49:34 +0000"
+      "crafting_table": "2025-05-06 19:37:26 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "graveyard:graveyard/giant_mushroom": {
     "criteria": {
-      "enchanted_item": "2025-05-06 20:05:59 +0000"
+      "giant_mushroom": "2025-05-06 19:49:34 +0000"
     },
     "done": true
   },
@@ -3584,9 +3584,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_lapis_block": "2025-05-06 19:26:44 +0000"
+      "enchanted_item": "2025-05-06 20:05:59 +0000"
     },
     "done": true
   },
